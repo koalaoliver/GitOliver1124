@@ -1,0 +1,9 @@
+.vs/                       # 忽略 .vs 資料夾及其內容
+packages/                  # 忽略 .vs 資料夾及其內容
+OliverDemo/bin/       # 忽略 WebApplication1(會依據你的資料名稱更動) 資料夾裡面的 bin 資料夾 及其內容   
+OliverDemo/Content/   # 忽略 WebApplication1(會依據你的資料名稱更動) 資料夾裡面的 Content 資料夾 及其內容
+OliverDemo/obj/       # 忽略 WebApplication1(會依據你的資料名稱更動) 資料夾裡面的 obj 資料夾 及其內容
+OliverDemo/Scripts/   # 忽略 WebApplication1(會依據你的資料名稱更動) 資料夾裡面的 Scripts 資料夾 及其內容
+*.user                     # 忽略 .user 副檔名的檔案
+*.config                   # 忽略 .config 副檔名的檔案
+
